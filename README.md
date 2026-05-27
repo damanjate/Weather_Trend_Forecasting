@@ -1,5 +1,5 @@
-# Weather_Trend_Forecasting
-Weather Trend Forecasting
+
+# Weather Trend Forecasting
 
 ## Objective
 Analyze and forecast global weather trends using machine learning and time series techniques.
@@ -28,6 +28,4 @@ Global Weather Repository dataset from Kaggle.
 - MAE
 - RMSE
 - R² Score
-
-
 
