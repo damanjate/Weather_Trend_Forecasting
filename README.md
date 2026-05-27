@@ -29,11 +29,5 @@ Global Weather Repository dataset from Kaggle.
 - RMSE
 - R² Score
 
-## PM Accelerator Mission
-PM Accelerator’s mission is to break down financial barriers and achieve educational fairness.
 
-## How to Run
-pip install -r requirements.txt
-
-Then run the notebook.
 
