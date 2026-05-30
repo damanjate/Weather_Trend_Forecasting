@@ -75,8 +75,8 @@ If GitHub does not preview the notebook correctly, please download the notebook 
 
 If GitHub is unable to preview the notebook or HTML report due to file size limitations, the project files can also be accessed through Google Drive:
 
-* Jupyter Notebook: [Google Drive Link]
-* HTML Report: [Google Drive Link]
+* Jupyter Notebook: [https://drive.google.com/file/d/1CjROCDQZy9D5iCsYg1A0I9F5auud3bQL/view?usp=drive_link]
+* HTML Report:[https://drive.google.com/file/d/18dDqbkQCAttvgYm3FecOSArXHYVUDUpa/view?usp=drive_link] 
 
 These files contain the complete analysis, forecasting models, SHAP explainability, anomaly detection, and business recommendations used in this project.
 
